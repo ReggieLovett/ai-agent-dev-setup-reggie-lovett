@@ -24,16 +24,16 @@ Main Claude Desktop interface
 
 ## 6. Rolldice MCP Test
 Claude: "Roll a dice"
-![Rolldice Test](screenshots/Screenshot 2026-03-17 at 4.56.51 PM.png)
+![Rolldice Test](screenshots/Screenshot%202026-03-17%20at%204.56.51%20PM.png)
 
 ## 7. Calendar MCP Test
 Claude: "What's today's date?"
-![Calendar Test](screenshots/Screenshot 2026-03-17 at 4.57.20 PM.png)
+![Calendar Test](screenshots/Screenshot%202026-03-17%20at%204.57.20%20PM.png)
 
 ## 8. Bootcamp MCP Test
 Claude: "List mcp-configs files"
-![Bootcamp Test](screenshots/Screenshot 2026-03-17 at 4.57.06 PM.png)
+![Bootcamp Test](screenshots/Screenshot%202026-03-17%20at%204.57.06%20PM.png)
 
 ## 9. GitHub MCP Test
 Claude: GitHub access test
-![GitHub Test](screenshots/Screenshot 2026-03-17 at 5.02.25 PM.png)
+![GitHub Test](screenshots/Screenshot%202026-03-17%20at%205.02.25%20PM.png)
