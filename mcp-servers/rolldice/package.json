@@ -1,0 +1,12 @@
+{
+  "name": "rolldice-mcp-server",
+  "version": "1.0.0",
+  "description": "Roll dice MCP server",
+  "type": "commonjs",
+  "bin": {
+    "rolldice": "index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

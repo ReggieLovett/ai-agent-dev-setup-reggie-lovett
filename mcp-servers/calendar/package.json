@@ -1,0 +1,12 @@
+{
+  "name": "calendar-mcp-server",
+  "version": "1.0.0",
+  "description": "Calendar MCP server",
+  "type": "commonjs",
+  "bin": {
+    "calendar": "index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "sidebarMode": "chat"
+  },
+  "mcpServers": {
+    "bootcamp-ai-agent": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "./"]
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_TOKEN_HERE"
+      }
+    },
+    "rolldice": {
+      "command": "node",
+      "args": ["/Users/reggielovett/Desktop/ai-agent-dev-setup-reggie-lovett/mcp-servers/rolldice/index.js"]
+    },
+    "calendar": {
+      "command": "node",
+      "args": ["/Users/reggielovett/Desktop/ai-agent-dev-setup-reggie-lovett/mcp-servers/calendar/index.js"]
+    }
+  }
+}
+
