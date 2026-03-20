@@ -2,24 +2,49 @@
 
 Evidence of AI Agent development environment setup.
 
-## Required Screenshots
+## 1. Node Version
+Terminal: `node --version`
+![Node Version](screenshots/node-version.png)
 
-| # | Title | Action |
-|----|--------|--------|
-| 1 | Node Version | Terminal: node --version |
-| 2 | Git Version | Terminal: git --version |
-| 3 | VS Code Insiders | Show VS Code Insiders with Copilot |
-| 4 | MCP Servers | Claude Desktop Tools: all 4 servers |
-| 5 | Claude Desktop | Main Claude interface |
-| 6 | Rolldice MCP | Claude: Roll a d20 test |
-| 7 | Calendar MCP | Claude: What is today date |
-| 8 | Bootcamp MCP | Claude: List mcp-configs files |
-| 9 | GitHub MCP | Claude: GitHub access test |
+## 2. Git Version
+Terminal: `git --version`
+![Git Version](screenshots/git-version.png)
 
-## Mac Screenshots
+## 3. VS Code Insiders
+VS Code Insiders with GitHub Copilot enabled
+![VS Code Insiders](screenshots/vscode-insiders.png)
 
-Use Cmd + Shift + 5 to open screenshot menu, or:
-- Cmd + Shift + 3 for full screen
-- Cmd + Shift + 4 for selected area
+## 4. MCP Servers
+Claude Desktop showing all 4 MCP servers in Tools
+![MCP Servers](screenshots/mcp-servers.png)
 
-Save to: screenshots/ folder
+## 5. Claude Desktop
+Main Claude Desktop interface
+![Claude Desktop](screenshots/claude-desktop.png)
+
+## 6. Rolldice MCP Test
+Claude: "Roll a d20"
+![Rolldice Test](screenshots/rolldice-test.png)
+
+## 7. Calendar MCP Test
+Claude: "What's today's date?"
+![Calendar Test](screenshots/calendar-test.png)
+
+## 8. Bootcamp MCP Test
+Claude: "List mcp-configs files"
+![Bootcamp Test](screenshots/bootcamp-test.png)
+
+## 9. GitHub MCP Test
+Claude: GitHub access test
+![GitHub Test](screenshots/github-test.png)
+
+---
+
+## How to Capture Screenshots
+
+**Mac Keyboard Shortcuts:**
+- Cmd + Shift + 5 - Open screenshot menu
+- Cmd + Shift + 3 - Full screen capture
+- Cmd + Shift + 4 - Select area to capture
+
+**Save each screenshot to:** `screenshots/` folder using the exact filenames shown above.
