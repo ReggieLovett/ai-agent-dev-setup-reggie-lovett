@@ -37,14 +37,3 @@ Claude: "List mcp-configs files"
 ## 9. GitHub MCP Test
 Claude: GitHub access test
 ![GitHub Test](screenshots/github-test.png)
-
----
-
-## How to Capture Screenshots
-
-**Mac Keyboard Shortcuts:**
-- Cmd + Shift + 5 - Open screenshot menu
-- Cmd + Shift + 3 - Full screen capture
-- Cmd + Shift + 4 - Select area to capture
-
-**Save each screenshot to:** `screenshots/` folder using the exact filenames shown above.
